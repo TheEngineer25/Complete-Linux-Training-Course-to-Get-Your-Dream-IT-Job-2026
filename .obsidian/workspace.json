@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/06 - История на Linux.md.md",
+                "file": "Лекции/04 - Операционна система.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 - История на Linux.md"
+              "title": "04 - Операционна система.md"
             }
           }
         ]
@@ -192,8 +192,8 @@
   },
   "active": "1de571d0bc070985",
   "lastOpenFiles": [
-    "Неозаглавен файл.md",
     "Лекции/06 - История на Linux.md.md",
+    "Неозаглавен файл.md",
     "Лекции/05 - Какво е Linux.md.md",
     "Лекции/04 - Операционна система.md.md",
     "Лекции/03 - Всекидневно изпозлване на Linux.md.md",
