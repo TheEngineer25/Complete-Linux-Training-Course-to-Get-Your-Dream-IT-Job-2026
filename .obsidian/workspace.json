@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0295a5f7a784826c",
+            "id": "a2cca3ac273f59ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Лекции/07 - Linux vs Unix.md.md",
+                "file": "Лекции/09 - Linux потребители.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07 - Linux vs Unix.md"
-            }
-          },
-          {
-            "id": "3fa71dc00c56cbd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Лекции/08 - Linux дистрибуции.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08 - Linux дистрибуции.md"
+              "title": "09 - Linux потребители.md"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,10 +190,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3fa71dc00c56cbd5",
+  "active": "a2cca3ac273f59ce",
   "lastOpenFiles": [
-    "Лекции/07 - Linux vs Unix.md.md",
     "Лекции/08 - Linux дистрибуции.md.md",
+    "Лекции/09 - Linux потребители.md.md",
+    "Лекции/07 - Linux vs Unix.md.md",
     "Лекции/06 - История на Linux.md.md",
     "Лекции/04 - Операционна система.md.md",
     "Неозаглавен файл.md",
