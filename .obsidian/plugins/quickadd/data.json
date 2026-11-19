@@ -14,7 +14,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "Лекции/01. Въведение в  Linux"
+          "Лекции/02. Сваляне, инсталиране и конфигуриране"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,

@@ -11,14 +11,10 @@
             "id": "31a9b9c85fde342d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Лекции/10 - Linux vs Windows.md.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "10 - Linux vs Windows.md"
+              "title": "Нов раздел"
             }
           }
         ]
@@ -190,9 +186,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "31a9b9c85fde342d",
+  "active": "47f231b66340c288",
   "lastOpenFiles": [
+    "Лекции/02. Сваляне, инсталиране и конфигуриране",
+    "Лекции/Нова папка",
     "Лекции/10 - Linux vs Windows.md.md",
+    "Лекции/01. Въведение в  Linux/10 - Linux vs Windows.md.md",
+    "Лекции/01. Въведение в  Linux/09 - Linux потребители.md.md",
+    "Лекции/01. Въведение в  Linux/08 - Linux дистрибуции.md.md",
+    "Лекции/01. Въведение в  Linux/07 - Linux vs Unix.md.md",
+    "Лекции/01. Въведение в  Linux/06 - История на Linux.md.md",
+    "Лекции/01. Въведение в  Linux/05 - Какво е Linux.md.md",
+    "Лекции/01. Въведение в  Linux/04 - Операционна система.md.md",
+    "Лекции/01. Въведение в  Linux/03 - Всекидневно изпозлване на Linux.md.md",
+    "Лекции/01. Въведение в  Linux/02 - Преглед на учебната програма.md.md",
+    "Лекции/01. Въведение в  Linux/01 - Въведение.md.md",
     "Лекции/09 - Linux потребители.md.md",
     "Лекции/08 - Linux дистрибуции.md.md",
     "Лекции/07 - Linux vs Unix.md.md",
@@ -204,7 +212,6 @@
     "Лекции/02 - Преглед на учебната програма.md.md",
     "Лекции/01 - Въведение.md.md",
     "Лекции/01. Въведение в  Linux",
-    "Лекции/Нова папка",
     "Templates/Linux Lecture Template.md.md"
   ]
 }
