@@ -19,10 +19,15 @@ tags:
 ### Основни понятия
 
 В тази лекция ще инсталираме Oracle Virtual Box.
-Първото нещо, което трябва да направим, е да посетим www.virtualbox.org.
+
+- Първото нещо, което трябва да направим, е да посетим www.virtualbox.org.
 
 ![[1.png]]
 
+- След това намираме Download Page -> Download the most recent software
+- След това го инсталираме и конфигурираме
+![](2.png)
+Понеже използваме Windows, избираме **Windows hosts**.
 
 
 
