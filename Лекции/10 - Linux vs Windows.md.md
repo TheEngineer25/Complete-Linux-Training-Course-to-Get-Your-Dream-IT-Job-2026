@@ -59,7 +59,7 @@ tags:
 ### Файлова система
 
 - Linux - използват се такива като ext64, XFS, и Btrfs.
-- Windows - 
+- Windows - предимно са NTFS и FAT32.
 
 
 
